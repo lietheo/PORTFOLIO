@@ -36,6 +36,10 @@ Développement d'un plugin QGIS permettant la recherche et la visualisation de s
 
 👉 https://github.com/LIEGEON-QGIS-PLUGINS/Sentinel2Timelapse-QGIS
 
+👉 https://github.com/LIEGEON-QGIS-PLUGINS/Georisques-QGIS
+
+Développement d'un plugin QGIS permettant de parcourir et d'ajouter directement les couches cartographiques officielles de Géorisques (WMS/WFS) depuis un panneau QGIS.
+
 ---
 
 ### Croisement de sources d’occupation du sol
