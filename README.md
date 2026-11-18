@@ -20,7 +20,7 @@ Ces travaux couvrent différents domaines de la géomatique : **topographie, car
 
 ### 1. Variabilité structurelle de la canopée viticole en Gironde : analyse des facteurs agro-environnementaux à partir du LiDAR HD
 
-**Contexte :** Mémoire de Master 2 Observation de la Terre et Géomatique – Université de Strasbourg.
+**Contexte :** Mémoire de recherche de Master (fin d'étude) Observation de la Terre et Géomatique – Université de Strasbourg.
 
 **Description :**
 
@@ -32,7 +32,7 @@ Caractérisation de la structure du couvert végétal dans le vignoble girondin 
 
 ### 2. Transition de données DAO vers SIG
 
-**Contexte :** Travail tutoré – Direction du Patrimoine Immobilier de l'Université de Strasbourg.
+**Contexte :** Travail d'Etude et de Recherche – Direction du Patrimoine Immobilier de l'Université de Strasbourg.
 
 **Description :**
 
