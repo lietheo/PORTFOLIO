@@ -4,11 +4,15 @@
 
 Bienvenue sur mon portfolio GitHub.
 
-Ce dépôt rassemble une sélection de projets réalisés dans le cadre de ma formation universitaire, de travaux tutorés et de projets personnels.
+Ce dépôt rassemble une sélection de travaux et de projets réalisés tout au long de mon parcours, du BTS au Master, ainsi que quelques réalisations personnelles.
 
-Ces réalisations illustrent mon parcours et mes compétences dans différents domaines de la géomatique : **systèmes d'information géographique (SIG), topographie, télédétection, analyse spatiale et développement d'outils géospatiaux**.
+Il est organisé en deux parties :
 
-Vous trouverez ci-dessous une présentation des différents projets, accompagnés de leurs dépôts de code et, le cas échéant, de leurs supports de visualisation.
+Travaux de formation : une sélection de rapports, dossiers et réalisations issus de mes différentes formations, classés par diplôme et directement consultables.
+
+Projets : des réalisations présentées dans des dépôts GitHub dédiés, permettant de découvrir plus en détail les démarches suivies, les méthodes employées et, selon les projets, les scripts, données et résultats obtenus.
+
+Ces travaux couvrent différents domaines de la géomatique : **topographie, cartographie, systèmes d'information géographique (SIG), télédétection, analyse spatiale et développement d'outils géospatiaux**.
 
 ---
 
@@ -32,7 +36,7 @@ Caractérisation de la structure du couvert végétal dans le vignoble girondin 
 
 **Description :**
 
-Conversion de données issues de la DAO vers un environnement SIG, structuration et intégration des données géographiques afin de faciliter leur exploitation dans le cadre de la gestion et de l'analyse de réseaux techniques.
+Élaboration d'une méthode automatisée de conversion de données DAO (AutoCAD) vers un environnement SIG (ArcGIS), intégrant la structuration des données géographiques et la réalisation d'analyses spatiales pour identifier les points de vulnérabilité des réseaux techniques.
 
 **Dépôt :** [TER_DPI](https://github.com/lietheo/TER_DPI)
 
