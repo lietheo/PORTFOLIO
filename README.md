@@ -1,3 +1,10 @@
+# Mon CV
+
+Cliquez sur l'aperçu ci-dessous pour ouvrir ou télécharger mon CV au format PDF :
+
+[![Aperçu de mon CV](./CV/CV_THEO_LIEGEON_VIEW.png)](./CV/CV_THEO_LIEGEON.pdf)
+
+
 # Portfolio de projets
 
 ## Présentation
